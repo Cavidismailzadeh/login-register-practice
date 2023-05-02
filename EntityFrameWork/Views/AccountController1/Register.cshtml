@@ -41,7 +41,9 @@
                         <div class="card-body p-5">
                             <h2 class="text-uppercase text-center mb-5">Create an account</h2>
 
-                            <form method="post" asp-action="Register">
+
+                            <div class="text-danger" asp-validation-summary="All"></div>
+                            <form method="post" asp-controller="account" asp-action="Register">
 
                                 <div class="form-outline mb-4">
                                     <input id="form3Example1cg" class="form-control form-control-lg" asp-for= "FullName" placeholder="Full Name" />                                  

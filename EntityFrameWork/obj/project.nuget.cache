@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kVc8Tvhv7AD11t7yvW5gbPychawj01qAAIdQjjhQcgDH2VP+opRrqa8/3+CNUorwG4kE9bGuoTO210JH4mqBFw==",
+  "dgSpecHash": "Tb23gJ7yG8IHE2nXdRJmPucLJGoHKm/Fh9V7I4cXo3JB6Ubgi4p41Jnvq9czpYN/ZL1vkW7Yp87TmCQQL2saYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\javidai\\Desktop\\Login-Register\\One-To-Many-Crud\\EntityFrameWork\\EntityFrameWork.csproj",
+  "projectFilePath": "C:\\Users\\javidai\\Desktop\\Practice\\login-register-practice\\EntityFrameWork\\EntityFrameWork.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\javidai\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\javidai\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

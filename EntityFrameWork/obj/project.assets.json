@@ -10199,11 +10199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\javidai\\Desktop\\Login-Register\\One-To-Many-Crud\\EntityFrameWork\\EntityFrameWork.csproj",
+      "projectUniqueName": "C:\\Users\\javidai\\Desktop\\Practice\\login-register-practice\\EntityFrameWork\\EntityFrameWork.csproj",
       "projectName": "EntityFrameWork",
-      "projectPath": "C:\\Users\\javidai\\Desktop\\Login-Register\\One-To-Many-Crud\\EntityFrameWork\\EntityFrameWork.csproj",
+      "projectPath": "C:\\Users\\javidai\\Desktop\\Practice\\login-register-practice\\EntityFrameWork\\EntityFrameWork.csproj",
       "packagesPath": "C:\\Users\\javidai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\javidai\\Desktop\\Login-Register\\One-To-Many-Crud\\EntityFrameWork\\obj\\",
+      "outputPath": "C:\\Users\\javidai\\Desktop\\Practice\\login-register-practice\\EntityFrameWork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10284,7 +10284,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
